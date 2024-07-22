@@ -407,7 +407,9 @@ form button:hover {
     color: #333;
     padding: 0.5rem 1rem;
 }
-
+.nav-menu a:hover{
+    text-decoration: underline;
+}
 
 
 .resume-button {
