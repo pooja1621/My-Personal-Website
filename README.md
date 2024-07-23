@@ -1,3 +1,5 @@
+using HTML, CSS JS with DOM
+
 My Personal Website
 Welcome to my personal website, a showcase of my skills and projects designed to provide an engaging and interactive user experience. This website has been crafted using modern web technologies, ensuring a responsive and visually appealing interface.
 
